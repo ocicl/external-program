@@ -1,0 +1,10 @@
+* external-program
+
+A portable Common Lisp library for running external programs from
+within Lisp.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/sellout/external-program.git |
+| commit  | 5888b8f                                                    |
+| systems | external-program                                    |
+|---------+-----------------------------------------------------|
