@@ -5,6 +5,7 @@ within Lisp.
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/sellout/external-program.git |
-| commit  | 5888b8f                                                    |
+| commit  | 8a10db2                                             |
 | systems | external-program                                    |
 |---------+-----------------------------------------------------|
+-----|
